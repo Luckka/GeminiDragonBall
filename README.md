@@ -1,16 +1,9 @@
-# gemini_dragon_ball
+# Gemini Dragon Ball
 
-A new Flutter project.
+# Sobre o Projeto
 
-## Getting Started
+Project developed to explore Google Gemini's new AI, integration was done using Dio, without the use of packages and using BLOC to control the state of the application, the idea of the project is to be an interactive chat where the user asks questions about Dragon Ball to Gemini and he responds.
 
-This project is a starting point for a Flutter application.
+## Layout 
+![Mobile](https://github.com/Luckka/GeminiDragonBall/blob/main/assets/geminiproject.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
